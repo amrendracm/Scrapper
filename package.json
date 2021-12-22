@@ -1,0 +1,26 @@
+{
+  "name": "scrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "price_link.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "csv-parser": "^3.0.0",
+    "csvtojson": "^2.0.10",
+    "express": "^4.17.2",
+    "fs": "^0.0.1-security",
+    "json2csv": "^5.0.6",
+    "jsontocsv": "^0.3.0",
+    "mongodb": "^4.2.2",
+    "mongoose": "^6.1.2",
+    "node-cron": "^3.0.0",
+    "puppeteer": "^13.0.0",
+    "read-text-file": "^1.1.0",
+    "xlsx": "^0.17.4"
+  }
+}
